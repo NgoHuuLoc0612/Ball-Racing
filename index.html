@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ball Racing Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <header class="game-header">
+            <h1>🏁 Ball Racing Championship</h1>
+            <div class="stats-bar">
+                <div class="money">💰 $<span id="money">1000</span></div>
+                <div class="win-rate">📊 Win Rate: <span id="winRate">0%</span></div>
+                <div class="total-races">🏆 Races: <span id="totalRaces">0</span></div>
+                <div class="terms-link">
+                    <a href="#" id="showTerms">See Full Terms</a>
+                </div>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <div class="left-panel">
+                <div class="betting-section">
+                    <h3>🎯 Place Your Bet</h3>
+                    <div class="bet-controls">
+                        <label for="ballNumber">Ball Number (1-11):</label>
+                        <input type="number" id="ballNumber" min="1" max="11" value="1">
+                        <span class="error-message" id="errorMessage"></span>
+                    </div>
+                    <div class="bet-controls">
+                        <label for="betAmount">Bet Amount:</label>
+                        <input type="number" id="betAmount" min="10" max="1000" value="50">
+                    </div>
+                    <div class="odds-display">
+                        <span>Odds: <span id="currentOdds">1.5x</span></span>
+                    </div>
+                    <div class="bet-buttons">
+                        <button id="placeBet" class="btn-primary">Place Bet</button>
+                        <button id="startRace" class="btn-success" disabled>Start Race</button>
+                        <button id="resetGame" class="btn-secondary">Reset Game</button>
+                    </div>
+                </div>
+
+                <div class="controls-section">
+                    <h3>🎮 Controls</h3>
+                    <div class="control-buttons">
+                        <button id="slowMotion" class="btn-control" disabled>Slow Motion</button>
+                        <button id="followCamera" class="btn-control" disabled>Follow Camera</button>
+                        <button id="replay" class="btn-control" disabled>Replay Race</button>
+                    </div>
+                </div>
+
+                <div class="history-section">
+                    <h3>📜 Race History</h3>
+                    <div class="history-tabs">
+                        <button class="tab-btn active" data-tab="recent">Recent</button>
+                        <button class="tab-btn" data-tab="wins">Wins</button>
+                        <button class="tab-btn" data-tab="losses">Losses</button>
+                    </div>
+                    <div class="history-content" id="historyContent">
+                        <p class="no-history">No races yet!</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="game-area">
+                <div class="race-track">
+                    <canvas id="gameCanvas" width="800" height="600"></canvas>
+                    <div class="race-info">
+                        <div class="race-status" id="raceStatus">Ready to race!</div>
+                        <div class="selected-ball" id="selectedBall">Select a ball to bet on</div>
+                        <div class="race-progress" id="raceProgress"></div>
+                    </div>
+                </div>
+
+                <div class="leaderboard">
+                    <h3>🏆 Live Leaderboard</h3>
+                    <div class="leaderboard-content" id="leaderboard">
+                        <div class="no-race">Race not started</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="result-popup" id="resultPopup">
+            <div class="popup-content">
+                <div class="popup-header">
+                    <h2 id="resultTitle"></h2>
+                    <button class="close-btn" id="closePopup">&times;</button>
+                </div>
+                <div class="popup-body">
+                    <div class="result-gif" id="resultGif"></div>
+                    <div class="result-details" id="resultDetails"></div>
+                </div>
+            </div>
+        </div>
+       
+        <div class="terms-modal" id="termsModal">
+            <div class="terms-modal-content">
+            <div class="terms-modal-header">
+                <h2>Terms of Use & Disclaimer</h2>
+                <button class="close-btn" id="closeTerms">&times;</button>
+            </div>
+            <div class="terms-modal-body" id="termsContent">
+            <!-- Content will be loaded here -->
+        </div>
+    </div>
+</div>
+
+    <script src="script.js"></script>
+</body>
+</html>

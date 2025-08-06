@@ -1,0 +1,330 @@
+DISCLAIMER AND TERMS OF USE
+
+BALL RACING CHAMPIONSHIP SOFTWARE APPLICATION
+
+IMPORTANT NOTICE: READ ALL TERMS CAREFULLY BEFORE USE
+
+This document constitutes a legally binding agreement between you (the "User") and the developers of the Ball Racing Championship software application (the "Software"). By accessing, downloading, installing, or using this Software, you acknowledge that you have read, understood, and agree to be bound by all terms and conditions set forth herein.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 1: FUNDAMENTAL PURPOSE AND SCOPE
+═══════════════════════════════════════════════════════════════════════════════
+
+1.1 PRIMARY OBJECTIVE
+This Software is designed exclusively for educational, entertainment, and demonstration purposes. The application serves as a practical illustration of programming methodologies, algorithmic implementations, probability theory applications, user interface design principles, and game development frameworks.
+
+1.2 TECHNOLOGICAL DEMONSTRATION
+The Software demonstrates various technical concepts including:
+- Real-time animation and rendering techniques
+- Event-driven programming paradigms
+- State management in interactive applications
+- Pseudo-random number generation algorithms
+- User interface responsive design principles
+- Browser-based canvas manipulation
+- Client-side data persistence mechanisms
+
+1.3 EDUCATIONAL CONTEXT
+This application is intended for use in educational environments, programming tutorials, portfolio demonstrations, and technical skill showcases. It serves as a reference implementation for developers learning game development principles.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 2: GAMBLING SIMULATION DISCLAIMER
+═══════════════════════════════════════════════════════════════════════════════
+
+2.1 VIRTUAL CURRENCY SYSTEM
+All monetary representations within this Software utilize exclusively virtual currency units that possess no real-world monetary value, legal tender status, or convertibility to actual currency. These virtual units serve solely as numerical representations for gameplay mechanics and user interface demonstration.
+
+2.2 SIMULATION PARAMETERS
+The betting mechanisms, odds calculations, probability distributions, and financial outcomes are entirely simulated through mathematical algorithms. These simulations do not represent, predict, or correlate with real-world gambling scenarios, financial markets, or actual betting outcomes.
+
+2.3 NO REAL FINANCIAL TRANSACTIONS
+Users cannot, under any circumstances:
+- Deposit real money, cryptocurrency, or financial instruments
+- Withdraw virtual currency for real-world value
+- Exchange virtual currency for goods or services
+- Transfer virtual currency between users or external systems
+- Convert virtual currency to legal tender or digital assets
+
+2.4 ALGORITHMIC OUTCOME DETERMINATION
+All race results, betting outcomes, and virtual currency fluctuations are determined by predetermined mathematical algorithms implemented within the Software. These algorithms utilize pseudo-random number generation techniques that may not reflect real-world probability distributions or gambling scenarios.
+
+2.5 PROBABILITY AND FAIRNESS CONSIDERATIONS
+The Software implements simplified probability models for demonstration purposes. These models do not represent statistically accurate gambling odds, house edge calculations, or professionally calibrated gaming algorithms used in regulated gambling environments.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 3: LEGAL AND REGULATORY COMPLIANCE
+═══════════════════════════════════════════════════════════════════════════════
+
+3.1 JURISDICTIONAL RESPONSIBILITY
+Users bear exclusive responsibility for ensuring their use of this Software complies with all applicable laws, regulations, and legal requirements in their jurisdiction of residence, operation, or access. This includes but is not limited to:
+- Local gambling regulations and restrictions
+- Age verification requirements
+- Software licensing compliance
+- Import/export restrictions on software applications
+- Data protection and privacy regulations
+
+3.2 AGE RESTRICTIONS AND VERIFICATION
+This Software is intended exclusively for users who have reached the legal age of majority in their jurisdiction, typically 18 years or older. Users under the legal gambling age in their jurisdiction are strictly prohibited from accessing or using this Software, even for educational purposes.
+
+3.3 PROHIBITED JURISDICTIONS
+Users in jurisdictions where gambling simulations, betting interfaces, or related software applications are prohibited or restricted are forbidden from accessing or using this Software. Users must independently verify the legal status of such applications in their jurisdiction.
+
+3.4 REGULATORY COMPLIANCE LIMITATIONS
+This Software has not been reviewed, approved, or certified by any gambling regulatory authority, gaming commission, or financial regulatory body. The Software does not meet the requirements for regulated gambling applications and must not be used for commercial gambling purposes.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 4: HEALTH AND BEHAVIORAL CONSIDERATIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+4.1 ADDICTION RISK AWARENESS
+While utilizing virtual currency, users should recognize that gambling simulations may contribute to the development or reinforcement of gambling-related behaviors, compulsive gaming patterns, or addictive tendencies. The psychological mechanisms involved in gambling simulations may mirror those present in real gambling environments.
+
+4.2 RESPONSIBLE USE GUIDELINES
+Users are encouraged to:
+- Set time limits for application usage
+- Monitor their emotional responses to wins and losses
+- Seek professional guidance if experiencing gambling-related concerns
+- Discontinue use if exhibiting compulsive gaming behaviors
+- Maintain awareness of the virtual nature of all transactions
+
+4.3 PROFESSIONAL RESOURCES
+Users experiencing gambling-related problems should contact:
+- National gambling addiction helplines
+- Licensed mental health professionals
+- Responsible gambling organizations
+- Local addiction support services
+
+4.4 PSYCHOLOGICAL IMPACT CONSIDERATIONS
+The Software employs reward mechanisms, achievement systems, and outcome variability that may trigger dopamine responses similar to those experienced in gambling environments. Users should remain cognizant of these psychological factors during usage.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 5: TECHNICAL SPECIFICATIONS AND LIMITATIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+5.1 RANDOM NUMBER GENERATION
+The Software employs JavaScript's Math.random() function and related pseudo-random number generation techniques. These methods are not cryptographically secure, may exhibit predictable patterns, and are unsuitable for applications requiring true randomness or cryptographic security.
+
+5.2 ALGORITHM TRANSPARENCY
+Race outcomes are determined by mathematical algorithms that may include:
+- Predetermined speed variations
+- Obstacle collision detection
+- Progress calculation mechanisms
+- Finishing position determination
+- Odds calculation formulas
+
+5.3 PLATFORM DEPENDENCIES
+Software performance, functionality, and behavior may vary significantly across:
+- Different web browsers and versions
+- Operating systems and hardware configurations
+- Device capabilities and specifications
+- Network connectivity conditions
+- JavaScript engine implementations
+
+5.4 ACCURACY AND RELIABILITY
+The Software may contain bugs, errors, or inconsistencies that affect gameplay, calculations, or user interface behavior. Users should not rely on the Software for precise mathematical calculations or statistical analysis.
+
+5.5 BROWSER COMPATIBILITY
+The Software is designed for modern web browsers supporting HTML5, CSS3, and ECMAScript standards. Compatibility with legacy browsers or non-standard implementations is not guaranteed.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 6: WARRANTY DISCLAIMERS AND LIABILITY LIMITATIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+6.1 WARRANTY DISCLAIMER
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE DEVELOPERS MAKE NO WARRANTIES REGARDING THE SOFTWARE'S ACCURACY, RELIABILITY, COMPLETENESS, OR PERFORMANCE.
+
+6.2 LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE DEVELOPERS, CONTRIBUTORS, DISTRIBUTORS, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6.3 CONSEQUENTIAL DAMAGES LIMITATION
+THE DEVELOPERS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE.
+
+6.4 MAXIMUM LIABILITY THRESHOLD
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL LIABILITY OF THE DEVELOPERS FOR ALL CLAIMS RELATED TO THE SOFTWARE SHALL NOT EXCEED ZERO DOLLARS ($0.00).
+
+6.5 USER ASSUMPTION OF RISK
+Users acknowledge and agree that they use this Software entirely at their own risk and assume full responsibility for any consequences, outcomes, or results of their usage.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 7: INTELLECTUAL PROPERTY AND LICENSING
+═══════════════════════════════════════════════════════════════════════════════
+
+7.1 COPYRIGHT AND OWNERSHIP
+The Software and its original components are protected by copyright laws and international treaty provisions. All rights, title, and interest in and to the Software remain with the original developers.
+
+7.2 OPEN SOURCE COMPONENTS
+This Software may incorporate open-source libraries, frameworks, or components governed by their respective licenses, including but not limited to:
+- MIT License
+- Apache License 2.0
+- GNU General Public License
+- BSD License variants
+- Creative Commons licenses
+
+7.3 ATTRIBUTION REQUIREMENTS
+Users who modify, distribute, or incorporate this Software must maintain appropriate copyright notices, attribution statements, and license compliance requirements.
+
+7.4 TRADEMARK CONSIDERATIONS
+Any trademarks, service marks, or trade names mentioned in or associated with the Software remain the property of their respective owners.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 8: DATA HANDLING AND PRIVACY PROTECTION
+═══════════════════════════════════════════════════════════════════════════════
+
+8.1 LOCAL DATA STORAGE
+All user data, including game statistics, race history, user preferences, and application state, is stored exclusively on the user's local device using browser-based storage mechanisms (localStorage, sessionStorage, or IndexedDB).
+
+8.2 NO DATA TRANSMISSION
+This Software does not transmit, upload, or share any user data, personal information, or usage statistics to external servers, third-party services, or remote databases.
+
+8.3 PRIVACY PROTECTION
+The Software does not collect, process, or store:
+- Personal identification information
+- Contact details or communication data
+- Financial information or payment details
+- Location data or geographic information
+- Biometric or device identification data
+
+8.4 DATA SECURITY
+While no external data transmission occurs, users should be aware that local storage mechanisms may be accessible to other applications or users with device access.
+
+8.5 GDPR AND PRIVACY REGULATION COMPLIANCE
+Since no personal data is collected or processed, this Software operates outside the scope of most data protection regulations. However, users should verify compliance with local privacy laws.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 9: USAGE RESTRICTIONS AND PROHIBITED ACTIVITIES
+═══════════════════════════════════════════════════════════════════════════════
+
+9.1 COMMERCIAL RESTRICTIONS
+Users are strictly prohibited from:
+- Using the Software for commercial gambling operations
+- Integrating the Software with real-money betting systems
+- Monetizing the Software through advertisements or subscriptions
+- Selling access to the Software or its components
+- Operating the Software as a commercial service
+
+9.2 MODIFICATION LIMITATIONS
+While educational modifications are permitted, users must not:
+- Remove or alter copyright notices or disclaimers
+- Implement real-money transactions
+- Create derivative works for commercial purposes
+- Distribute modified versions without appropriate attribution
+
+9.3 PROHIBITED INTEGRATIONS
+Users must not integrate the Software with:
+- Payment processing systems
+- Cryptocurrency networks
+- Real-money gambling platforms
+- Financial trading applications
+- Commercial gaming services
+
+9.4 REVERSE ENGINEERING RESTRICTIONS
+Users may examine the Software's source code for educational purposes but must not reverse engineer proprietary algorithms or security mechanisms for commercial exploitation.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 10: UPDATES, MODIFICATIONS, AND DISCONTINUATION
+═══════════════════════════════════════════════════════════════════════════════
+
+10.1 MODIFICATION RIGHTS
+The developers reserve the unrestricted right to modify, update, or discontinue the Software at any time without prior notice or user consent.
+
+10.2 TERMS UPDATES
+These terms and conditions may be modified, updated, or replaced at any time. Continued use of the Software after such modifications constitutes acceptance of the updated terms.
+
+10.3 BACKWARD COMPATIBILITY
+Updates to the Software may not maintain backward compatibility with previous versions or user data formats.
+
+10.4 DISCONTINUATION POLICY
+The developers may discontinue the Software permanently without prior notice, data migration assistance, or user compensation.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 11: DISPUTE RESOLUTION AND GOVERNING LAW
+═══════════════════════════════════════════════════════════════════════════════
+
+11.1 GOVERNING LAW
+These terms shall be governed by and construed in accordance with the laws of the jurisdiction where the Software was developed, without regard to conflict of law principles.
+
+11.2 DISPUTE RESOLUTION
+Any disputes arising from or relating to the Software or these terms shall be resolved through:
+- Good faith negotiation between parties
+- Binding arbitration if negotiation fails
+- Court proceedings in the developer's jurisdiction as a last resort
+
+11.3 JURISDICTION AND VENUE
+Users consent to the exclusive jurisdiction and venue of courts in the developer's jurisdiction for any legal proceedings related to the Software.
+
+11.4 CLASS ACTION WAIVER
+Users waive any right to participate in class action lawsuits or class-wide arbitration related to the Software.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 12: SEVERABILITY AND ENFORCEABILITY
+═══════════════════════════════════════════════════════════════════════════════
+
+12.1 SEVERABILITY CLAUSE
+If any provision of these terms is found to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect.
+
+12.2 ENFORCEABILITY
+The invalidity or unenforceability of any provision shall not affect the validity or enforceability of any other provision.
+
+12.3 INTERPRETATION
+These terms shall be interpreted fairly and reasonably, without favoring any party due to the drafting or preparation of the terms.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 13: ACKNOWLEDGMENT AND ACCEPTANCE
+═══════════════════════════════════════════════════════════════════════════════
+
+13.1 USER ACKNOWLEDGMENT
+By using this Software, users acknowledge that they have:
+- Read and understood all terms and conditions
+- Consulted legal counsel if necessary
+- Verified compliance with applicable laws
+- Accepted all risks and limitations
+- Agreed to be bound by these terms
+
+13.2 CAPACITY CONFIRMATION
+Users confirm that they possess the legal capacity to enter into binding agreements and that their use of the Software does not violate any applicable laws or regulations.
+
+13.3 VOLUNTARY AGREEMENT
+Users acknowledge that their acceptance of these terms is voluntary and not the result of coercion, fraud, or misrepresentation.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 14: CONTACT INFORMATION AND SUPPORT
+═══════════════════════════════════════════════════════════════════════════════
+
+14.1 SUPPORT LIMITATIONS
+This Software is provided for educational purposes without dedicated support services, warranty coverage, or maintenance guarantees.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 15: EFFECTIVE DATE AND DURATION
+═══════════════════════════════════════════════════════════════════════════════
+
+15.1 EFFECTIVE DATE
+These terms become effective immediately upon user access to or use of the Software and remain in effect until superseded by updated terms or Software discontinuation.
+
+15.2 SURVIVAL OF TERMS
+Provisions relating to liability limitations, intellectual property rights, and dispute resolution shall survive any termination or discontinuation of the Software.
+
+15.3 TERMINATION RIGHTS
+Users may terminate their use of the Software at any time by discontinuing access and removing all copies from their devices.
+
+═══════════════════════════════════════════════════════════════════════════════
+FINAL NOTICE AND WARNINGS
+═══════════════════════════════════════════════════════════════════════════════
+
+CRITICAL REMINDERS:
+• This Software is for educational and entertainment purposes only
+• No real money or financial transactions are involved
+• All currency is virtual and has no real-world value
+• Users must comply with local laws and regulations
+• Gambling simulations may contribute to addictive behaviors
+• Professional help should be sought for gambling-related concerns
+• The Software is provided without warranty or support guarantees
+
+GAMBLING ADDICTION RESOURCES:
+If you or someone you know is experiencing gambling-related problems, please contact:
+• National Council on Problem Gambling: 1-800-522-4700
+• Gamblers Anonymous: www.gamblersanonymous.org
+• Local mental health professionals
+• Responsible gambling organizations in your jurisdiction
+
+═══════════════════════════════════════════════════════════════════════════════
+END OF DOCUMENT
+═══════════════════════════════════════════════════════════════════════════════
